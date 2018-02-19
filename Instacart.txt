@@ -1,4 +1,4 @@
-Mr.Sam
+Mr.Samuel
 Datasets I used 
 -
 #https://s3.amazonaws.com/hackerday.datascience/87/order_products__train.csv
